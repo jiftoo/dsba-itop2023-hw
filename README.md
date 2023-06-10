@@ -31,4 +31,4 @@ it was fun speedrunning this from 0 to 100 in a few days.
 - Save the new file in a directory
 - Proceed using the app
 
-Optionally, follow the steps in [Building the rust thing](#building-rust), then run and navigate to `File -> Open...`, open `imdb_well_formed.csv` and proceed using the app.
+Optionally, follow the steps in [Building the rust thing](#building-the-rust-thing), then run and navigate to `File -> Open...`, open `imdb_well_formed.csv` and proceed using the app.
