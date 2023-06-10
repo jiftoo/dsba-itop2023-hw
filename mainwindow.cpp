@@ -138,7 +138,7 @@ void MainWindow::loadDataFromPath(QString& fileName) {
     ui->filmInfoWidget->setEnabled(true);
     ui->filmInfoWidget->verticalHeader()->setVisible(true);
 
-    QString newTitle = QString("%0%1 (%1)").arg(DEFAULT_WINDOW_TITLE).arg(fileName);
+    QString newTitle = QString("%0 (%1)").arg(DEFAULT_WINDOW_TITLE).arg(fileName);
     this->setWindowTitle(newTitle);
 }
 
